@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xintongqi
-- 🌱 I’m currently a junior at Columbia University with a CS major
+- 🌱 I’m currently a cs major at Columbia University
 - 📫 Please reach me at xq2224 at columbia.edu
 
 <!---
