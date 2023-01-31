@@ -2,6 +2,7 @@
 - 🌱 A cs major at Columbia University
 - 📫 Please reach me at xq2224 at columbia.edu
 - 🙂 Some private repos. Let me know if you want to take a look!
+  -  **w4118_os**: labs for W4118 OS at Columbia. keywords: Operating Systems, C, Debian (work in progress)
   -  **w3157_ap**: labs for W3157 AP at Columbia. keywords: C, Linux, client-server
   -  **fyp**: final year project at CityU. keywords: python, GAN, Mask R-CNN
   -  **hall5_website_new**: website for CityU Hall 5. keywords: HTML, CSS, JS, PHP
