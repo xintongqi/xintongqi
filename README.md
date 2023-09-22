@@ -1,5 +1,6 @@
 Some private repos. Please reach me at xq2224 at columbia.edu if you are interested.
-- **w4118_os**: labs for W4118 OS at Columbia. keywords: Operating Systems, C, Debian, kernel programming
+- **w4118_os**: labs for W4118 OS at Columbia. keywords: operating systems, C, Debian, kernel programming
+- **w4771_ml**: assignments for W4771 ML at Columbia. keywords: machine learning, python
 - **w4231_algo**: assignments for W4231 Analysis of Algo at Columbia. keywords: algorithms, latex
 - **w3157_ap**: labs for W3157 AP at Columbia. keywords: C, Linux, TCP
 - **fyp**: final year project at CityU. keywords: python, GAN, Mask R-CNN, geometry
